@@ -4,6 +4,12 @@
       "id": "3",
       "text": "Food shopping",
       "day": "March 7th at 2:00pm",
+      "reminder": false
+    },
+    {
+      "id": "978a",
+      "text": "Pebis",
+      "day": "05/12/2024",
       "reminder": true
     }
   ]
